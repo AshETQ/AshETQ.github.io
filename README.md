@@ -1,7 +1,11 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+Template is created by jigar-sable on github:
+<a href="https://github.com/jigar-sable/Portfolio-Website?tab=readme-ov-file" target="_blank">**GitHub** </a>
+
+Vist my website portfolio here!
+<a href="https://ashetq.github.io/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -20,7 +24,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 <h2>📬 Contact</h2>
 
-Feel free to reach me through the below handles if you'd like to contact me.
+Feel free to contact me via LinkedIn! Or send me at email at ash.chase37@yahoo.com
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-chase-phd-877551158/)
+
