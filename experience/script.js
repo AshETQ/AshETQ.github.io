@@ -70,7 +70,8 @@ function(){
     }
     else {
         document.title = "Ash's Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png"); //edit to have an image of a star or something
+        $("#favicon").attr("href","/assets/images/favstar.png"); //edit to have an image of a star or something
     }
 
 });
+
