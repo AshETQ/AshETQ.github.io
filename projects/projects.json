@@ -2,7 +2,7 @@
   {
     "name": "AquaClimber",
     "desc": "A limbed swimming and climbing multi-modal robot. The first to freestyle swim and transition to vertical climbing, AquaClimber uses pendular motion and a design similar to the Bipedal Oscillating RoBot (BoB) robots. Coded with Arduino.",
-    "image": "notystackandroid",
+    "image": "aquaclimber",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/AquaClimber",
@@ -12,7 +12,7 @@
   {
     "name": "ET-Quad / STARQ",
     "desc": "The multi-modal swimming, climbing, and running quadruped designed for NASA's 2022 Big Idea Challenge and further developed for research. STARQ has multi-modal limbs and is run using a raspberry pi, moteus motor controls & motors, and Python script.",
-    "image": "sppuprepandroid",
+    "image": "starq",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/ETQ-STARQ",
@@ -22,7 +22,7 @@
   {
     "name": "SELQIE-Underwater Explorer",
     "desc": "The Seafloor Environment Legged Quadruped Intelligent Explorer (SELQIE) is designed to traverse multiple aquatic modes- walking underwater, swimming mid-fluid, and transitioning between locomotive modes. SELQIE is run on a Jetson ORIN with a ROS2 framework.",
-    "image": "newsboxandroid",
+    "image": "selqie",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/SELQIE-Overview",
@@ -32,7 +32,7 @@
   {
     "name": "RR-STARQ, bio-inspired surface swimmer",
     "desc": "A quadrupedal, revolute-revolute modification of previous robot, STARQ, mimics biology such as dogs when surface swimming. A sagittal plane MATLAB model is used to simulate results and compare to experimentation.",
-    "image": "weatherlyandroid",
+    "image": "rrstarq",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/Sagittal-Plane-RR-STARQ",
@@ -42,7 +42,7 @@
   {
     "name": "Muli-modal C-shaped foot design",
     "desc": "A more in-depth look at the design and hardware development of the multi-modal limb design of STARQ.",
-    "image": "instagrammern",
+    "image": "cfoot",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/ETQ-STARQ/tree/main/C-Shaped%20Foot%20Design",
@@ -52,7 +52,7 @@
   {
     "name": "Leg Locomotion in Fluid",
     "desc": "Nelder-Mead optimization was run in a simulated fluid bed to aid in tuning optimization of a five-bar leg running while submerged in fluid.",
-    "image": "flipkartmern",
+    "image": "optimizefluid",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/Additional-Projects",
@@ -62,7 +62,7 @@
     {
     "name": "MiniBobCat- Concept",
     "desc": "Prototype of a smaller scale quadruped. Used and experimented on before designing and developing STARQ.",
-    "image": "flipkartmern",
+    "image": "mbcOverview2",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/Additional-Projects",
@@ -72,7 +72,7 @@
     {
     "name": "PropBoB",
     "desc": "Prototype of a propellor assisted climbing BoB robot.",
-    "image": "flipkartmern",
+    "image": "propbob",
     "category": "robot",
     "links": {
       "repo": "https://github.com/AshETQ/Additional-Projects",
@@ -82,7 +82,7 @@
   {
     "name": "Mechatronics & Art",
     "desc": "Collaborative work with sculpture students to create an interactive engineer/art installment at the Sharing Tree, Tallahassee.",
-    "image": "resumegen",
+    "image": "mechandart",
     "category": "school",
     "links": {
       "pub": "https://www.tallahassee.com/story/life/causes/2019/05/27/fsu-students-team-up-kid-friendly-project/1219899001/",
@@ -92,7 +92,7 @@
     {
     "name": "DAVEs - Dynamics And Vibrations Experimentation systems",
     "desc": "Hardware built for Systems and Vibration class's lab experimentation section. One DAVE is used for all labs, with interchangeable parts for experimental learning.",
-    "image": "resumegen",
+    "image": "addedmass",
     "category": "school",
     "links": {
       
@@ -102,7 +102,7 @@
     {
     "name": "Senior Design - Flax Fiber Composite for Sikorsky Aircraft",
     "desc": "My team created an environmentally conscious, flax fiber based composite and characterized samples to evaluate probability of use on or in aircraft.",
-    "image": "resumegen",
+    "image": "flaxfiberstandin",
     "category": "school",
     "links": {
       "pub": "https://www.newhaven.edu/engineering/expo/2018.php",
@@ -112,7 +112,7 @@
   {
     "name": "Side Projects",
     "desc": "Personal side projects and hobbies.",
-    "image": "reactprojects",
+    "image": "placeholder",
     "category": "personal",
     "links": {
       
@@ -122,5 +122,6 @@
 
 
 ]
+
 
 
