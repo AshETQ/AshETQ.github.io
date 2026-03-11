@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Ash Chase";
-            $("#favicon").attr("href", "assets/images/favicon.png"); //EDIT THIS PLEASE WITH portrait ICON
+            $("#favicon").attr("href", "assets/images/ICRAIcon.png"); 
         }
         else {
             document.title = "Ash's Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png"); //EDIT THIS PLEASE WITH mini ICON
+            $("#favicon").attr("href", "assets/images/favstar.png"); 
         }
     });
 
