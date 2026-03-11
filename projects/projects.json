@@ -85,7 +85,7 @@
     "image": "resumegen",
     "category": "school",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
+      "pub": "https://www.tallahassee.com/story/life/causes/2019/05/27/fsu-students-team-up-kid-friendly-project/1219899001/",
       "repo": "https://github.com/AshETQ/Additional-Projects"
     }
   },
@@ -105,7 +105,7 @@
     "image": "resumegen",
     "category": "school",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
+      "pub": "https://www.newhaven.edu/engineering/expo/2018.php",
       "repo": "https://github.com/AshETQ/Additional-Projects"
     }
   },
@@ -122,4 +122,5 @@
 
 
 ]
+
 
