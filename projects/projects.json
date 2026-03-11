@@ -5,8 +5,8 @@
     "image": "aquaclimber",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/AquaClimber",
-      "pub": "https://iopscience.iop.org/article/10.1088/1748-3190/aca05c"
+      "view": "https://github.com/AshETQ/AquaClimber",
+      "code": "https://iopscience.iop.org/article/10.1088/1748-3190/aca05c"
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "starq",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/ETQ-STARQ",
-      "pub": "https://bigidea.nianet.org/wp-content/uploads/Florida-State-University-and-Florida-Agricultural-and-Mechnical-University-2022-Big-Idea-Technical-Paper.pdf"
+      "view": "https://github.com/AshETQ/ETQ-STARQ",
+      "code": "https://bigidea.nianet.org/wp-content/uploads/Florida-State-University-and-Florida-Agricultural-and-Mechnical-University-2022-Big-Idea-Technical-Paper.pdf"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "selqie",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/SELQIE-Overview",
-      "pub": "https://ieeexplore.ieee.org/document/11127516"
+      "view": "https://github.com/AshETQ/SELQIE-Overview",
+      "code": "https://ieeexplore.ieee.org/document/11127516"
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "rrstarq",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/Sagittal-Plane-RR-STARQ",
-      "pub": "https://github.com/AshETQ/Dissertation"
+      "view": "https://github.com/AshETQ/Sagittal-Plane-RR-STARQ",
+      "code": "https://github.com/AshETQ/Dissertation"
     }
   },
   {
@@ -45,8 +45,8 @@
     "image": "cfoot",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/ETQ-STARQ/tree/main/C-Shaped%20Foot%20Design",
-      "pub": "https://digitalcommons.usf.edu/fcrar/2023/May19/2/"
+      "view": "https://github.com/AshETQ/ETQ-STARQ/tree/main/C-Shaped%20Foot%20Design",
+      "code": "https://digitalcommons.usf.edu/fcrar/2023/May19/2/"
     }
   },
   {
@@ -55,8 +55,8 @@
     "image": "optimizefluid",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/Additional-Projects",
-      "pub": "https://ieeexplore.ieee.org/document/9863276"      
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "https://ieeexplore.ieee.org/document/9863276"      
     }
   },
     {
@@ -65,8 +65,8 @@
     "image": "mbcOverview2",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/Additional-Projects",
-      
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "#"
     }
   },
     {
@@ -75,8 +75,8 @@
     "image": "propbob",
     "category": "robot",
     "links": {
-      "repo": "https://github.com/AshETQ/Additional-Projects",
-      
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "#"
     }
   },
   {
@@ -85,8 +85,9 @@
     "image": "mechandart",
     "category": "school",
     "links": {
-      "pub": "https://www.tallahassee.com/story/life/causes/2019/05/27/fsu-students-team-up-kid-friendly-project/1219899001/",
-      "repo": "https://github.com/AshETQ/Additional-Projects"
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "https://www.tallahassee.com/story/life/causes/2019/05/27/fsu-students-team-up-kid-friendly-project/1219899001/"
+      
     }
   },
     {
@@ -96,7 +97,8 @@
     "category": "school",
     "links": {
       
-      "repo": "https://github.com/AshETQ/Additional-Projects"
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "#"
     }
   },
     {
@@ -105,8 +107,9 @@
     "image": "flaxfiberstandin",
     "category": "school",
     "links": {
-      "pub": "https://www.newhaven.edu/engineering/expo/2018.php",
-      "repo": "https://github.com/AshETQ/Additional-Projects"
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "https://www.newhaven.edu/engineering/expo/2018.php"
+      
     }
   },
   {
@@ -116,12 +119,14 @@
     "category": "personal",
     "links": {
       
-      "repo": "https://github.com/AshETQ/Additional-Projects"
+      "view": "https://github.com/AshETQ/Additional-Projects",
+      "code": "#"
     }
   },
 
 
 ]
+
 
 
 
