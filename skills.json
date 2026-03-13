@@ -3,26 +3,20 @@
         "name": "Solidworks",
         "icon": "https://img.icons8.com/color/48/000000/solidworks.png"
     },
-    {
-        "name": "Fusion360",
-        "icon": "https://www.freelogovectors.net/wp-content/uploads/2023/05/autodesk-fusion-360_logo-freelogovectors.net_.png"
-    },
+   
     {
         "name": "AutoDesk",
         "icon": "https://img.icons8.com/color/48/000000/autodesk.png"
     },
     {
         "name": "MATLAB",
-        "icon": "https://img.icons8.com/color/48/000000/matlab.png"
+        "icon": "https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"
     },
     {
         "name": "Arduino",
         "icon": "https://img.icons8.com/color/48/000000/arduino.png"
     },
-    {
-        "name": "LabView",
-        "icon": "https://logodix.com/logo/1983511.jpg"
-    },
+
     {
         "name": "Ubuntu",
         "icon": "https://img.icons8.com/?size=100&id=63208&format=png&color=000000"
