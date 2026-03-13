@@ -10,7 +10,7 @@
     },
     {
         "name": "MATLAB",
-        "icon": "https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000"
     },
     {
         "name": "Arduino",
@@ -19,15 +19,15 @@
 
     {
         "name": "Ubuntu",
-        "icon": "https://img.icons8.com/?size=100&id=63208&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=63208&format=png&color=000000"
     },
     {
         "name": "ROS",
-        "icon": "https://img.icons8.com/?size=100&id=BngpHYi6Q05p&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=BngpHYi6Q05p&format=png&color=000000"
     },
     {
         "name": "Raspberry Pi",
-        "icon": "https://img.icons8.com/?size=100&id=13443&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
     },
     {
         "name": "C++",
@@ -43,47 +43,47 @@
     },
     {
         "name": "Wiring/Circuit Design and Diagrams",
-        "icon": "https://img.icons8.com/?size=100&id=it8BC1BidcTC&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=it8BC1BidcTC&format=png&color=000000"
     },
     {
         "name": "Mechatronics",
-        "icon": "https://img.icons8.com/?size=100&id=9inONWn9EvfI&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=9inONWn9EvfI&format=png&color=000000"
     },
     {
         "name": "Experimentation",
-        "icon": "https://img.icons8.com/?size=100&id=tdp7KtmMM1vI&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=tdp7KtmMM1vI&format=png&color=000000"
     },
     {
         "name": "Hardware Design",
-        "icon": "https://img.icons8.com/?size=100&id=rllnx3d6o9rn&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=rllnx3d6o9rn&format=png&color=000000"
     },
     {
         "name": "Tool Handling",
-        "icon": "https://img.icons8.com/?size=100&id=42401&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=42401&format=png&color=000000"
     },
     {
         "name": "IEEE Writing",
-        "icon": "https://img.icons8.com/?size=100&id=tb4mhEQTqtJ1&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=tb4mhEQTqtJ1&format=png&color=000000"
     },
     {
         "name": "OverLeaf",
-        "icon": "https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=piVHs2bMOs6P&format=png&color=000000"
     },
     {
         "name": "Teaching",
-        "icon": "https://img.icons8.com/?size=100&id=111275&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=111275&format=png&color=000000"
     },
     {
         "name": "3D Printing",
-        "icon": "https://img.icons8.com/?size=100&id=yaXpGqet1uJu&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=yaXpGqet1uJu&format=png&color=000000"
     },
     {
         "name": "Casting",
-        "icon": "https://img.icons8.com/?size=100&id=SgfNG1uDbGIb&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=SgfNG1uDbGIb&format=png&color=000000"
     },
     {
         "name": "Sewing",
-        "icon": "https://img.icons8.com/?size=100&id=undefined&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=undefined&format=png&color=000000"
     }
     
     
