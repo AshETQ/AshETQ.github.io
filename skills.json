@@ -1,12 +1,12 @@
 [
     {
         "name": "Solidworks",
-        "icon": "https://img.icons8.com/color/48/000000/solidworks.png"
+        "icon": "https://img.icons8.com/?size=48&id=62397&format=png&color=000000"
     },
    
     {
         "name": "AutoDesk",
-        "icon": "https://img.icons8.com/color/48/000000/autodesk.png"
+        "icon": "https://img.icons8.com/color/100/000000/autodesk.png"
     },
     {
         "name": "MATLAB",
@@ -14,7 +14,7 @@
     },
     {
         "name": "Arduino",
-        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
     },
 
     {
@@ -31,18 +31,18 @@
     },
     {
         "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "icon": "https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png&color=000000"
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/?size=48&id=13441&format=png&color=000000"
     },
     {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "https://img.icons8.com/?size=48&id=12599&format=png&color=FFFFFF"
     },
     {
-        "name": "Wiring/Circuit Design and Diagrams",
+        "name": "Circuit Design",
         "icon": "https://img.icons8.com/?size=48&id=it8BC1BidcTC&format=png&color=000000"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "name": "Experimentation",
-        "icon": "https://img.icons8.com/?size=48&id=tdp7KtmMM1vI&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=Kbw6wNpK87gW&format=png&color=FFFFFF"
     },
     {
         "name": "Hardware Design",
@@ -59,7 +59,7 @@
     },
     {
         "name": "Tool Handling",
-        "icon": "https://img.icons8.com/?size=48&id=42401&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=11219&format=png&color=FFFFFF"
     },
     {
         "name": "IEEE Writing",
@@ -83,7 +83,7 @@
     },
     {
         "name": "Sewing",
-        "icon": "https://img.icons8.com/?size=48&id=undefined&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=36294&format=png&color=FFFFFF"
     }
     
     
