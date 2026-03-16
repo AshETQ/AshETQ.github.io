@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "ET-Quad / STARQ",
+    "name": "ET-Quad STARQ",
     "desc": "Swimming, climbing, and running quadruped designed for NASA's 2022 Big Idea Challenge and further developed for research.",
     "image": "starq",
     "category": "robot",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "SELQIE-Underwater Explorer",
+    "name": "SELQIE the Underwater Explorer",
     "desc": "SELQIE is designed to traverse multiple aquatic modes- walking underwater, swimming mid-fluid, and transitioning between locomotive modes.",
     "image": "selqie",
     "category": "robot",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "RR-STARQ, bio-inspired surface swimmer",
+    "name": "RRSTARQ bioinspired surface swimmer",
     "desc": "A quadrupedal, revolute-revolute modification of previous robot, STARQ, mimics biology such as dogs when surface swimming.",
     "image": "rrstarq",
     "category": "robot",
@@ -60,7 +60,7 @@
     }
   },
     {
-    "name": "MiniBobCat- Concept",
+    "name": "MiniBobCat Concept",
     "desc": "Prototype of a smaller scale quadruped before designing and developing STARQ.",
     "image": "mbcOverview2",
     "category": "robot",
@@ -96,7 +96,6 @@
     "image": "addedmass",
     "category": "school",
     "links": {
-      
       "view": "https://github.com/AshETQ/Additional-Projects",
       "code": "#"
     }
@@ -109,7 +108,6 @@
     "links": {
       "view": "https://github.com/AshETQ/Additional-Projects",
       "code": "https://www.newhaven.edu/engineering/expo/2018.php"
-      
     }
   },
   {
@@ -118,13 +116,10 @@
     "image": "placeholder",
     "category": "personal",
     "links": {
-      
       "view": "https://github.com/AshETQ/Additional-Projects",
       "code": "#"
     }
-  },
-
-
+  }
 ]
 
 
