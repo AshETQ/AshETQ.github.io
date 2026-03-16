@@ -18,8 +18,8 @@ Vist my website portfolio here!
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](([https://github.com/AshETQ/AshETQ.github.io/blob/56144935b74d9c7a334c3256d15e5cdd4d013762/assets/images/projects/portfolio1.png]))
-![ss](https://github.com/AshETQ/AshETQ.github.io/blob/56144935b74d9c7a334c3256d15e5cdd4d013762/assets/images/projects/portfolio1.png)
+![mockup720](https://github.com/AshETQ/AshETQ.github.io/blob/56144935b74d9c7a334c3256d15e5cdd4d013762/assets/images/projects/portfolio1.png)
+![ss](https://github.com/AshETQ/AshETQ.github.io/blob/f378a710fefbe23e4f91c4145101b5d37a1483b1/assets/images/projects/skills.png)
 
 
 <h2>📬 Contact</h2>
